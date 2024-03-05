@@ -6,3 +6,6 @@ This repo holds the solutions of the problems of the contests organized by [ICPC
 
 > [Sheet #2 (Loops)](https://codeforces.com/group/MWSDmqGsZm/contest/219432)  
 >> [solution of sheet 2](https://github.com/RuhulAminSharif/ICPC-Assiut-University-Community-Newcomers-Training/tree/main/Sheet%232(Loops))
+
+> [Sheet #3 (Arrays)](https://codeforces.com/group/MWSDmqGsZm/contest/219774)  
+>> [solution of sheet 3](https://github.com/RuhulAminSharif/ICPC-Assiut-University-Community-Newcomers-Training/tree/main/Sheet%232(Loops))
