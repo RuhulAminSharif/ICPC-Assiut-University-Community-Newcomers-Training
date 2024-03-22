@@ -8,4 +8,7 @@ This repo holds the solutions of the problems of the contests organized by [ICPC
 >> [solution of sheet 2](https://github.com/RuhulAminSharif/ICPC-Assiut-University-Community-Newcomers-Training/tree/main/Sheet%232(Loops))
 
 > [Sheet #3 (Arrays)](https://codeforces.com/group/MWSDmqGsZm/contest/219774)  
->> [solution of sheet 3](https://github.com/RuhulAminSharif/ICPC-Assiut-University-Community-Newcomers-Training/tree/main/Sheet%232(Loops))
+>> [solution of sheet 3](https://github.com/RuhulAminSharif/ICPC-Assiut-University-Community-Newcomers-Training/tree/main/Sheet%232(Loops))  
+
+> [Sheet #4 (Strings)](https://codeforces.com/group/MWSDmqGsZm/contest/219856)  
+>> [solution of sheet 4](https://github.com/RuhulAminSharif/ICPC-Assiut-University-Community-Newcomers-Training/tree/main/Sheet%234(Strings))
